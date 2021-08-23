@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f0d2f7e-bc3b-4ec3-8455-101d2e7b12a6" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/test_fortech1" beforeDir="false" afterPath="$PROJECT_DIR$/test_fortech1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_fortech1/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_fortech1/myfile.txt" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> dc659d6bc5ba42c74cf4177e85e0c5b32ad8532e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +19,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test_fortech1" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> dc659d6bc5ba42c74cf4177e85e0c5b32ad8532e
   </component>
   <component name="ProjectId" id="1wzSq1yW3KEPfLdRpLiHu6ge5lv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,7 +36,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+=======
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+>>>>>>> dc659d6bc5ba42c74cf4177e85e0c5b32ad8532e
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,7 +52,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629460110726</updated>
+<<<<<<< HEAD
       <workItem from="1629460112546" duration="402000" />
+=======
+      <workItem from="1629460112546" duration="6586000" />
+>>>>>>> dc659d6bc5ba42c74cf4177e85e0c5b32ad8532e
     </task>
     <servers />
   </component>
@@ -46,6 +64,36 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/TestBranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="187" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="35" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> dc659d6bc5ba42c74cf4177e85e0c5b32ad8532e
   </component>
 </project>

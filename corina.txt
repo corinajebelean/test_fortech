@@ -1,1 +1,8 @@
 test pull
+<<<<<<< Updated upstream
+
+test checkout
+=======
+test git diffbgf
+diff for the branch
+>>>>>>> Stashed changes
